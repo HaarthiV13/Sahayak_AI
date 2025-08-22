@@ -88,9 +88,6 @@ python src/main.py
 
 Contributions, feedback, and suggestions are welcome! Please submit issues and pull requests via GitHub.
 
-## License
-
-*No license specified yet.*
 
 ## Author
 
