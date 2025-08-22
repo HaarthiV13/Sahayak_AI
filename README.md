@@ -28,6 +28,21 @@
       
 *   *Ask Later Asynchronous Queue:*
     *    Enables teachers to capture student questions during class and receive comprehensive, multi-modal answers (text, image, and audio) later.
+## Tech stack
+*   *Frontend:*
+    *   *Next.js & React:* Utilized the App Router for server-rendered pages, ensuring optimal performance and a fast user experience.
+    *   *TypeScript:* Ensured type safety and maintainability across the project.
+    *   *Tailwind CSS & ShadCN UI:* Created a professional, responsive, and accessible user interface with a modern design system.
+
+*   *Backend & AI Integration:*
+    *   *Firebase Genkit:* Orchestrated all backend AI logic. Genkit was used to define complex, multi-step "flows" that chain together calls to various AI models.
+    *   *Google AI (Gemini Models):*
+        *   *Gemini 1.5 Flash:* For all text generation, summarization, and conversational AI tasks.
+        *   *Gemini Pro Vision:* To analyze the content of uploaded textbook images.
+        *   *Gemini Image & Audio Models:* For generating visual aids, illustrations for stories, and text-to-speech functionality.
+
+*   *Deployment:*
+    *   *Vercel:* The application is hosted on Vercel, which provides a seamless environment for deploying Next.js applications, including serverless functions for the backend logic.
 ## Repository Structure
 
 ```
