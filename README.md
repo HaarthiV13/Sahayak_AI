@@ -1,6 +1,6 @@
 # Sahayak_AI
 
-[Live Demo](https://sahayak-ai-flax.vercel.app)
+[Live Demo](https://sahayak-ai-flax.vercel.app/)
 
 ## Overview
 
