@@ -84,11 +84,6 @@ npm run dev
 python src/main.py
 ```
 
-### Deployment
-
-- Configuration for cloud deployment is provided in `apphosting.yaml`.
-- The application can be hosted on [Vercel](https://sahayak-ai-flax.vercel.app).
-
 ## Contributing
 
 Contributions, feedback, and suggestions are welcome! Please submit issues and pull requests via GitHub.
