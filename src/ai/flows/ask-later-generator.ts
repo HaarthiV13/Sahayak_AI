@@ -68,7 +68,7 @@ const generateAnswerForLaterFlow = ai.defineFlow(
           name: 'askLaterAnswerPrompt',
           input: { schema: z.object({ question: z.string(), language: z.string() }) },
           output: { schema: z.object({ answer: z.string() }) },
-          prompt: `You are Sriha, a friendly AI co-teacher. Answer the student's question in a simple, age-appropriate way with an analogy.
+          prompt: `You are Sahayak.AI, a friendly AI co-teacher. Answer the student's question in a simple, age-appropriate way with an analogy.
           Language: {{{language}}}
           Question: {{{question}}}
           Answer:`
