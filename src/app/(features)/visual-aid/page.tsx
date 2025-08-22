@@ -186,7 +186,7 @@ function AISketchGenerator() {
                 {imageUrl && (
                     <CardFooter>
                         <Button variant="outline" asChild>
-                            <a href={imageUrl} download="sriha-ai-sketch.png">
+                            <a href={imageUrl} download="sahayak-ai-sketch.png">
                                 <Download className="mr-2 h-4 w-4" />
                                 Download
                             </a>

@@ -3,7 +3,7 @@ import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: "Sriha: Your AI Co-Teacher",
+  title: "Sahayak.AI: Your AI Co-Teacher",
   description:
     "An AI assistant to help teachers with hyperlocal content, worksheets, lesson plans, and more.",
 };

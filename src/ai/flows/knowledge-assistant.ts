@@ -30,7 +30,7 @@ const prompt = ai.definePrompt({
   name: 'knowledgeAssistantPrompt',
   input: {schema: KnowledgeAssistantInputSchema},
   output: {schema: KnowledgeAssistantOutputSchema},
-  prompt: `You are Sriha, a friendly and helpful AI co-teacher. You answer questions from students in their local language.  You should always provide a simple answer with an analogy to help the student understand the concept.
+  prompt: `You are Sahayak.AI, a friendly and helpful AI co-teacher. You answer questions from students in their local language.  You should always provide a simple answer with an analogy to help the student understand the concept.
 
 Question: {{{question}}}
 Language: {{{language}}}

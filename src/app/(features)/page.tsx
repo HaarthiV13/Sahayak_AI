@@ -88,7 +88,7 @@ export default function DashboardPage() {
     <div className="flex flex-col gap-8">
       <div className="flex flex-col gap-2">
         <h1 className="text-3xl font-bold tracking-tighter font-headline md:text-4xl">
-          Welcome, I'm Sriha!
+          Welcome, I'm Sahayak.AI!
         </h1>
         <p className="text-muted-foreground">
           Your AI co-teacher is ready to help. Select a tool or use the microphone to get started.

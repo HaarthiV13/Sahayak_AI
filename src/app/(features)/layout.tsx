@@ -134,7 +134,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
               <Sparkles className="w-5 h-5" />
             </div>
             <h1 className="text-xl font-semibold tracking-tighter font-headline">
-              Sriha
+              Sahayak.AI
             </h1>
           </Link>
         </SidebarHeader>
