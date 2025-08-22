@@ -1,5 +1,7 @@
 # Sahayak.AI
+[Live Demo](https://sahayak-ai-flax.vercel.app/)
 
+[Video Demo](https://drive.google.com/file/d/1wu_saMlWdvXc6e-Oju-TayDv3zUvPz5R/view?usp=sharing)
 ## Overview
 
 **Sahayak_AI** is like a smart helping hand for teachers. Today, teachers spend so much time on paperwork, planning, and prep that they barely get to do what they love, most teaching and connecting with students. Our project solves that. We built an AI-powered “co-teacher” that works alongside them in the classroom. Using just a voice-first web app, Sahayak.AI can instantly create local-language stories with pictures, turn a photo of a textbook page into custom worksheets for different learning levels, and even generate full lesson plans from a short syllabus. It also supports students directly, answering their questions in simple words and offering fun, adaptive learning games. In short, Sahayak.AI gives teachers back their time, so they can focus on what really matters: their students.
