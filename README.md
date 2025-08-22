@@ -1,4 +1,5 @@
 # Sahayak.AI
+[Project idea](https://github.com/HaarthiV13/Sahayak_AI/blob/main/Project_idea.md)
 
 [Live Demo](https://sahayak-ai-flax.vercel.app/)
 
