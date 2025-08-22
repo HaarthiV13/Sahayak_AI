@@ -5,10 +5,10 @@
 **Sahayak_AI** is like a smart helping hand for teachers. Today, teachers spend so much time on paperwork, planning, and prep that they barely get to do what they love, most teaching and connecting with students. Our project solves that. We built an AI-powered “co-teacher” that works alongside them in the classroom. Using just a voice-first web app, Sahayak.AI can instantly create local-language stories with pictures, turn a photo of a textbook page into custom worksheets for different learning levels, and even generate full lesson plans from a short syllabus. It also supports students directly, answering their questions in simple words and offering fun, adaptive learning games. In short, Sahayak.AI gives teachers back their time, so they can focus on what really matters: their students.
 
 ## Features
-*   *Hyperlocal Content Creator*
+*   *Story Creator*
     *   Instantly generates engaging, age-appropriate stories and examples that are culturally relevant to students, complete with unique AI-generated illustrations to capture their imagination.
 
-*   *Differentiated Worksheet Generator*
+*   *Worksheet Generator*
     *   Allows a teacher to simply upload a photo of any textbook page. The AI analyzes the content and automatically produces three distinct worksheets for easy, intermediate, and advanced skill levels, ensuring every student is appropriately challenged.
 
 *   *Knowledge Assistant*
@@ -22,7 +22,12 @@
 
 *   *Learning Games Arcade*
     *   A suite of fun, interactive learning games (including a Math Quiz, Word Scramble, and Memory Match) with adaptive difficulty to make learning engaging and reinforce key concepts.
-
+      
+*   *Role-Play Script Creator*
+    *   Creates educational role-play scripts, complete with multi-speaker audio, to facilitate interactive classroom activities.
+      
+*   *Ask Later Asynchronous Queue:*
+    *    Enables teachers to capture student questions during class and receive comprehensive, multi-modal answers (text, image, and audio) later.
 ## Repository Structure
 
 ```
